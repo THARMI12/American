@@ -1,0 +1,34 @@
+<html><!DOCTYPE html>
+<body>
+  <table border="3">
+    <tr>
+        <th style="background-color: blue;" align="center" font-size="40px">HTML</th>
+    </tr>
+    <tr>
+        <td style="font-size: 20px;" font-color="crimson red">hyper text mark up language</td>
+    </tr>
+    <tr>
+        <td style="font-size: 20px;" font-color="crimson red">Tags that we learn</td> 
+    </tr>
+    <ol>
+         <ul> 
+            <li>H1-H6</li>
+            <li>P</li>
+            <li>Hr</li>
+            <li>B</li>
+            <li>I</li>
+            <li>Storng</li>
+         </ul>
+
+    </ol>
+
+
+
+
+
+
+  </table>
+
+</body>
+
+</html>
